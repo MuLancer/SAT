@@ -28,9 +28,19 @@
 - Watergate Scandal 水门事件，被弹劾
 
 
+## Jimmy Carter
+
+1977 Department of Energy
+- 1979 Three Mile Island nuclear station
+
+
 ## Reagan
 
-low interest rate and easy government
+low interest rate and easy government  
+
+Age of Prosperity
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMzNzQzOTUsMTIyMDAwOTY5N119
+eyJoaXN0b3J5IjpbLTE5NTgwMTcxNDksLTEyNDMzNzQzOTUsMT
+IyMDAwOTY5N119
 -->

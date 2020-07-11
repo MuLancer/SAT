@@ -50,12 +50,12 @@
 
 ## George W. Bush
 
-2003 911 event
+2001 911 event
 
 ## Barack Obama 
 
 first African American President
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY2NDM4MTksLTEyNDMzNzQzOTUsMT
-IyMDAwOTY5N119
+eyJoaXN0b3J5IjpbLTk4MTk1MDEyMSwtMTI0MzM3NDM5NSwxMj
+IwMDA5Njk3XX0=
 -->

@@ -42,9 +42,20 @@
 
 ## George Bush
 
+1991 Persian Gulf War breaks out
 
+## William Jefferson Clinton
 
+1993 NAFTA 北美自由贸易协定
+
+## George W. Bush
+
+2003 911 event
+
+## Barack Obama 
+
+first African American President
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjI4MDQxMywtMTI0MzM3NDM5NSwxMj
-IwMDA5Njk3XX0=
+eyJoaXN0b3J5IjpbLTE5NzY2NDM4MTksLTEyNDMzNzQzOTUsMT
+IyMDAwOTY5N119
 -->

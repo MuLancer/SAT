@@ -30,17 +30,19 @@
 
 ## Jimmy Carter
 
-1977 Department of Energy
+- 1977 Department of Energy
 - 1979 Three Mile Island nuclear station
 
 
 ## Reagan
 
-low interest rate and easy government  
+- low interest rate -> Supply Side Economics
+- New Federalism 政府就是问题本身
+- 1985 Star Wars Program
 
 Age of Prosperity
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgwMTcxNDksLTEyNDMzNzQzOTUsMT
+eyJoaXN0b3J5IjpbLTE4MjM1NDMyMzIsLTEyNDMzNzQzOTUsMT
 IyMDAwOTY5N119
 -->

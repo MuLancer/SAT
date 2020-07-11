@@ -19,7 +19,7 @@
 
 
 ## New Deal
-
+**Increase Government Spending**
 - Emergency Banking Relief Act + Banking Act of 1933 (No Bankrupt)
 - Farm Credit Act & 1933 Agricultural Adjustment Act (AAA)
 - National Industrial Recovery Act
@@ -30,7 +30,7 @@
     - Provide reform in economics and banking system
     - Provide recovery for the economy
 
-**Increase Government Spending**
+
 
 
 ## Against New Deal
@@ -50,5 +50,5 @@ Social Security Act
 The New Deal Coalition 新政联盟
 Roosevelt Recession 罗斯福衰退
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjg0NjY3NywxOTYyMjQzNTI0XX0=
+eyJoaXN0b3J5IjpbLTE2ODgyMTU4OTMsMTk2MjI0MzUyNF19
 -->

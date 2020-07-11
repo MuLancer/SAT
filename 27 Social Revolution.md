@@ -38,11 +38,13 @@
 
 - low interest rate -> Supply Side Economics
 - New Federalism 政府就是问题本身
-- 1985 Star Wars Program
+- 1985 Star Wars Program 航天方面和苏联对抗
 
-Age of Prosperity
+## George Bush
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM1NDMyMzIsLTEyNDMzNzQzOTUsMT
-IyMDAwOTY5N119
+eyJoaXN0b3J5IjpbMjA3MjI4MDQxMywtMTI0MzM3NDM5NSwxMj
+IwMDA5Njk3XX0=
 -->

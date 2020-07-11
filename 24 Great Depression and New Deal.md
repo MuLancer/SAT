@@ -30,6 +30,8 @@
     - Provide reform in economics and banking system
     - Provide recovery for the economy
 
+**Increase Government Spending**
+
 
 ## Against New Deal
 
@@ -48,5 +50,5 @@ Social Security Act
 The New Deal Coalition 新政联盟
 Roosevelt Recession 罗斯福衰退
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjI0MzUyNF19
+eyJoaXN0b3J5IjpbLTgyMjg0NjY3NywxOTYyMjQzNTI0XX0=
 -->

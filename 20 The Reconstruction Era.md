@@ -1,6 +1,4 @@
 
-
-
 # The Reconstruction Era (1865 -1877)
 
 
@@ -24,5 +22,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMTgwNDQ2XX0=
+eyJoaXN0b3J5IjpbLTE2MTUzODUwMjIsNjgxMTgwNDQ2XX0=
 -->
